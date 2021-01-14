@@ -45,7 +45,7 @@
                             <div id="collapseOne" class="ml-4 mt-2 collapse" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div>
                                     <a href="/our-services">
-                                        <li class="linkNav">New build &amp; extention</li>
+                                        <li class="linkNav">New build &amp; extension</li>
                                     </a>
                                     <a href="/our-services">
                                         <li class="linkNav">Curbs</li>

@@ -14,7 +14,7 @@
                                             <h4>We are</h4>
                                             <h1 class="h1">SH Construction</h1>
                                             <hr>
-                                            <p>SH Construction have over 40 years expreinece with both Civil and Private estates. Insurance proven, we work on properties and landscaping, offering prices better thatn local authorities. SH Construction are now based within the Midlands and surrounding areas.</p>
+                                            <p>SH Construction have over 40 years experience with both Civil and Private estates. Insurance proven, we work on properties and landscaping, offering prices better than local authorities. SH Construction are now based within the Midlands and surrounding areas.</p>
                                             <button class="bg-light border-0 px-4 py-2 rounded-lg">
                                                 <a href="/contact-us">
                                                     Call us now
@@ -58,7 +58,7 @@
                                     <div class="row row-middle">
                                         <div class="col-12">
                                             <hr class="d-block d-md-none" style="border-color: #f9e451;">
-                                            <p>"Steve is a great guy and is clear on what he's going to do. It's evident his experience allows him to get his work done quickly. Very pleased with the work done on back garden wall and my now DPC ready extention"</p><h3>- Tom, Redditch</h3>
+                                            <p>"Steve is a great guy and is clear on what he's going to do. It's evident his experience allows him to get his work done quickly. Very pleased with the work done on back garden wall and my now DPC ready extension."</p><h3>- Tom, Redditch</h3>
                                             <hr class="d-block d-md-none" style="border-color: #f9e451;">
                                             <button class="d-block d-md-none bg-warning border-0 mt-4 mt-md-0 px-4 py-2 rounded-lg">
                                                 <a href="/contact-us">
@@ -104,7 +104,7 @@
                                     <h3 class="my-3"><b>Your local construction company, where ever you are.</b></h3>
                                 </div>
                                 <div class="col-12 col-md-10 offset-md-1 text-center">
-                                    <p class="m-0 px-4">A construction company operating across England that offers construction services such as; dropped curbing to roads and paths; all aspect paving to Drives and Patios, Wall retainment and alterations; New Build extention alterations; Complete drainage works and all aspect roofing. We offer free construction onsite quotes for anyone interested in our services.</p>
+                                    <p class="m-0 px-4">A construction company operating across England that offers construction services such as; dropped curbing to roads and paths; all aspect paving to Drives and Patios, Wall retainment and alterations; New Build extension alterations; Complete drainage works and all aspect roofing. We offer free construction onsite quotes for anyone interested in our services.</p>
                                 </div>
                             </div>
                         </div>
@@ -165,7 +165,7 @@
                                             <a href="/our-services">
                                                 <img src="icons/iconmonstr-construction-21.svg">
                                                 <h4>New Build alterations</h4>
-                                                <p class="m-0"><small>and extentions</small></p>
+                                                <p class="m-0"><small>and extensions</small></p>
                                             </a>   
                                         </div>    
                                     </div>
