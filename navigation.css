@@ -1,0 +1,384 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a.blockLink {
+    display: block;
+}
+
+/* LOGO + CTA */
+.navone {
+    background: #242424;
+}
+
+.navonelogo {
+    height: 55px;
+}
+
+img.navonelogo {
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+
+img.navonelogo:hover {
+    transform: scale(0.95);
+}
+
+.navquote {
+    background: white;
+    border-radius: 5px;
+    padding: 7.5px 12.5px 7.5px 10px;
+}
+
+.moblogonav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #242424;
+}
+
+img.moblogo {
+    height: 55px;
+}
+
+img.smallicon {
+    height: 15px;
+    padding-right: 2.5px;
+}
+
+/* NAV TWO */
+.navtwo, .footer {
+    background: white;
+    padding: 0;
+    border-bottom: 1px solid #242424;
+}
+a.navbutton {
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+}
+
+.navtwo a {
+    color: black;
+    text-decoration: none;
+}
+
+.navtwo a:hover {
+    color: #F4B909;
+}
+
+p.navigation {
+    font-weight: 500;
+    font-size: 15px;
+} 
+
+.navone h4 {
+    margin: 10px 0px;
+}
+
+h4.navtwotext {
+    display: inline;
+    font-weight: 300;
+}
+
+/* NAV THREE */
+.navthree {
+    background: #f2f2f2;
+}
+
+.navthree a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navthree a p {
+    margin: 0;
+}
+
+a.navthreeusp {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+img.navthreeusp {
+    height: 20px;
+    margin-right: 15px;
+}
+
+.navthreeusp h5 {
+    margin: 7.5px 0px;
+    font-weight: normal;
+}
+
+.navthreeusp small {
+    display: block;
+}
+
+.ctabar {
+    margin: 15px 0px;
+}
+
+.navigation p {
+    color: #ffffff;
+  }
+.topnav {
+    text-align: center;
+    background: #dcdcdc;
+    font-family: Tw Cen MT;
+}
+p.border {
+    border: 1px solid #979797;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0% 15%;
+    box-sizing: border-box;
+    display: table;
+}
+span.toptyve, span.toptyve a {
+    margin: 2.5px 0px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.33);
+    font-weight: 100;
+}
+span.toptyve {
+    display: block;
+}
+span.toptyve a:hover {
+    color: #0000EE;
+}
+.logo {
+    max-height: 50px;
+    display: block;
+    width: 100%;
+}
+.middlenav {
+    text-align: center;
+    background: white;
+}
+.middlenav h3 {
+    color: #151515;
+    position: relative;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+  .uspstrip {
+    text-align: center;
+    margin-top: 0.75%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .uspstrip img {
+    padding-right: 2%;
+    align-items: center;
+  }
+  .uspstrip h4 {
+    vertical-align: top;
+    display: inline-block;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.35em;
+  }
+  .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 10000;
+      top: 0;
+      right: 0;
+      background: #1c253b;
+      overflow-x: hidden;
+  }
+  span.headerNav, span.headerNav:active, .span.headerNav:hover, span.headerNav:focus, span.headerNav:not(:disabled):not(.disabled):active {
+    text-decoration: none;
+    color: black;
+    display: block;
+    transition: 0.3s;
+    border: 0px;
+    text-align: left;
+    font-size: 37px;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    border-bottom: 1px solid black; 
+    border-radius: 0px;
+    padding-bottom: 0px;
+    line-height: 1.2;
+    font-weight: bold;  
+  }
+
+    li.linkNav {
+        display: block;
+        color: #1C253C;
+        font-size: 28px;
+    }    
+
+.closebtn {
+    padding: 3px 18px;
+    font-size: 21px;
+    font-family: TW Cen MT;
+    background-color: #FF5656;
+    color: #F8F9FA;
+    border-radius: 5px;
+    transition: 0.3s;
+    text-decoration: none;
+  }
+.openbtn {
+    padding: 3px 18px;
+    font-size: 21px;
+    font-family: TW Cen MT;
+    background-color: #56A9FE;
+    color: #F8F9FA;
+    border-radius: 5px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.openbtn:hover, .closebtn:hover {
+    color: white;
+}
+
+#mobileNav {
+    transition: margin-right .2s;
+}
+
+.btn-navigation, .btn-navigation a {
+    background: transparent;
+    font-family: TW Cen MT;
+    font-size: 21px;
+}
+
+      li.nav-item {
+       border-right: 1px solid #00000010;
+}
+
+li.nav-item:last-child {
+    border: 0px;
+}
+.usp:before {
+    padding-right: 0.5em;
+    margin: auto;
+    line-height: 1;
+    height: 23px;
+}
+.usp.uspone:before {
+    content: url(icons/iconmonstr-construction-21.svg);
+}
+.usp.usptwo:before {
+    content: url("icons/iconmonstr-construction-17.svg");
+}
+.usp.uspthree:before {
+    content: url("icons/iconmonstr-construction-1.svg");
+}
+
+  @media (max-width: 768px) {
+    p.border {
+      display: block;
+    }
+    span.mobileNavOpen {
+        font-size: 28px;
+        cursor: pointer;
+        color: white;
+        font-family: TW Cen MT;
+    }
+      .mobileNavLogo {
+    height: 75px;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 0px;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+}
+      
+      .closeButton, .openButton {   
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    height: 75px;
+      }
+  }
+
+@media (max-width: 760px) {
+    .navthreeusp h5 {
+        font-size: 10px;
+    }    
+}
+
+@media (max-width: 640px) {
+    nav.navone {
+        margin: 5px 0px;
+    }
+    .mobileusp {
+        border-bottom: 1px solid black;
+    }
+    p.mobileuspp {
+        font-weight: 500;
+        font-size: 14px;
+        padding-bottom: 1em;
+    }
+}
+
+@media (max-width: 640px){
+    .scroll {
+        white-space: nowrap; /* [1] */
+        overflow-x: auto; /* [2] */
+        -webkit-overflow-scrolling: touch; /* [3] */
+        -ms-overflow-style: -ms-autohiding-scrollbar; /* [4] */ }
+
+    .scroll::-webkit-scrollbar {
+        display: none; 
+    }
+
+    .mob.navigation {
+        display: inline-block;
+        font-weight: 500;
+        margin: 15px;
+    }
+    nav.navtwo {
+        margin: 10px 0px;
+    }
+    .col-9.moblogo {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 74.999999%;
+        flex: 0 0 74.999999%;
+        max-width: 74.999999%;
+        margin: 15px 0px;
+    }    
+}
+
+@media (max-width: 640px) {
+    .navthreeusp h4 {
+        margin: 7.5px 0px;
+        display: inline-block;
+    }
+    a.navthreeusp {
+        display: inline-block;
+        margin-right: 25px;
+    }
+    img.navthreeusp {
+        margin: 0px 15px 0px 15px;
+    }
+}
+
+@media screen and (max-height: 450px) {
+      .sidenav {
+      padding-top: 15px;
+    }
+    .sidenav a {
+      font-size: 18px;
+    }
+  }
+
